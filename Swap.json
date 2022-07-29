@@ -1,1 +1,1 @@
-{"reapeat": {"if": "JMorethanJplus", "codetype": "swap", "time": "lenghth"}, "define": {}}
+{"define": {"set": ["boat", "j"], "replace": ["j", "j+1", "boat"]}}
